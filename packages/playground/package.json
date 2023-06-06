@@ -107,7 +107,7 @@
     "react-transform-hmr": "^1.0.4",
     "rimraf": "^5.0.0",
     "source-map-loader": "^4.0.1",
-    "vite": "^4.2.1"
+    "vite": "^4.2.3"
   },
   "directories": {
     "test": "test"
